@@ -1,8 +1,8 @@
-<p>Dokumentasi untuk App Absensi </p>
+# Dokumentasi untuk App Absensi
 <br>
-![netlify_logo_icon_169924](https://user-images.githubusercontent.com/39976558/129538457-5413c3b1-7152-4ad9-962d-28b9be4f3d88.png)
-
+###  Host on :
+![](https://iili.io/R5zoFe.png)
 <br>
-Untuk melihat dokumentasi, lihat disini https://docs-app-absensi.netlify.app/
+Untuk melihat demo dokumentasi, lihat [disini](https://docs-app-absensi.netlify.app) <br>
 
-Terima kasih kepada Xiaoying Riley dari http://themes.3rdwavemedia.com/ untuk desain template nya 
+Terima kasih kepada Xiaoying Riley dari  [3rdwavemedia](http://themes.3rdwavemedia.com) untuk free template.
